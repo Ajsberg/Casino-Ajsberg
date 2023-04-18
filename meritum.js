@@ -45,5 +45,5 @@ function losulosu(){ //Funkcja losująca
 
 guzik.addEventListener('click', losulosu);
 
-// Autor: Kamil Mrowiec GitHub: TBA
+// Autor: Kamil Mrowiec GitHub: https://github.com/Ajsberg/Casino-Ajsberg
 //Szansa wygranej: Poniżej 3%

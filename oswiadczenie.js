@@ -4,4 +4,4 @@ if (confirm("Wchodząc na tą stronę oświadczasz, że jesteś pełnoletni, a h
     history.back();
 }
 
-// Autor: Kamil Mrowiec GitHub: TBA
+// Autor: Kamil Mrowiec GitHub: https://github.com/Ajsberg/Casino-Ajsberg

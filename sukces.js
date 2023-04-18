@@ -20,4 +20,4 @@ setTimeout(function(){ //Przeniesienie użytkownika na stronę główną po 10 s
     window.location.href = "index.php";
 }, 10000);
 
-// Autor: Kamil Mrowiec GitHub: TBA
+// Autor: Kamil Mrowiec GitHub: https://github.com/Ajsberg/Casino-Ajsberg

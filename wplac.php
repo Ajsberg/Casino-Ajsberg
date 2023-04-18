@@ -16,4 +16,4 @@ if(isset($_POST['saldo']) && $_POST['saldo'] > 0 && $_POST['platnosc']){
 }
 ?>
 
-<!--Autor: Kamil Mrowiec GitHub: TBA -->
+<!--Autor: Kamil Mrowiec GitHub: https://github.com/Ajsberg/Casino-Ajsberg -->

@@ -13,4 +13,4 @@ $wykonaj = mysqli_query($db, $sql);
 
 ?>
 
-<!--Autor: Kamil Mrowiec GitHub: TBA -->
+<!--Autor: Kamil Mrowiec GitHub: https://github.com/Ajsberg/Casino-Ajsberg -->
