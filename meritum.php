@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Kasyno Mrowiec S.A.</title>
+    <title>Kasyno Ajsberg</title>
     <link rel="stylesheet" href="styles.css">
     <link rel="icon" href="media/casinoicon.ico">
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.4/jquery.min.js"></script>
@@ -23,7 +23,7 @@
     
     <div class="navbar">
         
-        <div class="logo">Kasyno Mrowiec</div>
+        <div class="logo">Kasyno Ajsberg</div>
    
         <ul>
             <li><a href="index.php">Strona Główna</a></li>
@@ -61,4 +61,4 @@
 </body>
 </html>
 
-<!--Autor: Kamil Mrowiec GitHub: TBA -->
+<!--Autor: Kamil Mrowiec GitHub: https://github.com/Ajsberg/Casino-Ajsberg -->

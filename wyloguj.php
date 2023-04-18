@@ -5,4 +5,4 @@
     exit;
 ?>
 
-<!--Autor: Kamil Mrowiec GitHub: TBA -->
+<!--Autor: Kamil Mrowiec GitHub: https://github.com/Ajsberg/Casino-Ajsberg -->
