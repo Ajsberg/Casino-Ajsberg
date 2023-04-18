@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Wpłać</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="icon" href="media/casinoicon.ico">
+</head>
+<body>
+    <div class="logowanie">
+        <p class="zalogujsie">PODAJ WPŁACANĄ KWOTĘ:</p>
+        <form action="wplac.php" method="POST"> <!--Formularz wpłaty-->
+            <input type="text" class="pt" placeholder="zł" name="saldo"><br>
+            <label>Metody płatności:</label><br><br> <!--Wybór metody płatności-->
+            <input type="radio" value="1" name="platnosc" required>GLIK<br>
+            <input type="radio" value="2" name="platnosc" disabled required>FasterCard (wkrótce)</input><br>
+            <input type="radio" value="3" name="platnosc" disabled required>Przelew tradycyjny (wkrótce)</input><br><br>
+            <input type="submit" value="ZAPŁAĆ" class="pt">
+        </form>
+        
+    </div>
+
+    
+</body>
+</html>
+
+<!--Autor: Kamil Mrowiec GitHub: TBA -->
