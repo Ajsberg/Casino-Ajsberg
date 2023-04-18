@@ -27,7 +27,6 @@
    
         <ul>
             <li><a href="index.php">Strona Główna</a></li>
-            <li><a href="help.html">Pomoc</a></li>
             <?php
             echo '<li class="saldo">Witaj, '.$imie.'</li>';
             echo '<li class="saldo">Twoje saldo: '.$stanKonta.' zł</li>';

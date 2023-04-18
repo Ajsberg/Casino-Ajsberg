@@ -30,7 +30,6 @@
    
         <ul>
             <li><a href="index.php">Strona Główna</a></li>
-            <li><a href="help.html">Pomoc</a></li>
             <?php
             if(isset($_SESSION['login'])) {
                 echo '<li class="saldo">Witaj, '.$imie.'</li>';
